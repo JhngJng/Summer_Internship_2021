@@ -1,3 +1,4 @@
 Python에서 데이터 시각화하는 다양한 방법 : https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/
 
 Visualizing Networks in python : https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
+NetworkX 기초 : https://95pbj.tistory.com/34
