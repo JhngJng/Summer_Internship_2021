@@ -2,3 +2,6 @@ Python에서 데이터 시각화하는 다양한 방법 : https://zzsza.github.i
 
 Visualizing Networks in python : https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 NetworkX 기초 : https://95pbj.tistory.com/34
+
+
+수식 작성 관련 도움 사이트 : https://www.codecogs.com/latex/eqneditor.php
